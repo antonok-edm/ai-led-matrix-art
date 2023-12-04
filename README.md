@@ -13,3 +13,7 @@ Let GPT-4 and GPT-4 with Vision write code for a [Pixelblaze](https://electromag
 - Paste the code from `index.js` into the devtools console
 - Wait for OpenAI servers
 - Enjoy the light show!
+
+## Origin story
+
+This project won 2nd place at the [Hacktopia](https://www.hacktopia.xyz/) hackathon hosted by [Helicone](https://www.helicone.ai/) and [PostHog](https://posthog.com/).
