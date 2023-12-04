@@ -2,6 +2,8 @@
 
 Let GPT-4 and GPT-4 with Vision write code for a [Pixelblaze](https://electromage.com/pixelblaze)-controlled LED matrix, evolving over time towards a user-defined theme.
 
+https://github.com/antonok-edm/ai-led-matrix-art/assets/22821309/367ee2c6-78cc-4098-9fd4-1398eeae66f6
+
 ## How to use
 
 - Modify the first two variable values in `index.js`:
