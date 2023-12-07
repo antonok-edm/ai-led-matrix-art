@@ -19,3 +19,5 @@ https://github.com/antonok-edm/ai-led-matrix-art/assets/22821309/367ee2c6-78cc-4
 ## Origin story
 
 This project won 2nd place at the [Hacktopia](https://www.hacktopia.xyz/) hackathon hosted by [Helicone](https://www.helicone.ai/) and [PostHog](https://posthog.com/).
+
+Contributors [@ninjaa](https://github.com/ninjaa) and [@antonk-edm](https://github.com/antonk-edm)
